@@ -171,7 +171,7 @@ Covers systems programming, compile-time power, and low-level development end-to
 
 **Available as:** Free online
 
-Borrowing Thorsten Ball's Monkey langauge, learn how to write a fully working Monkey language interpreter in zig, including a lexer, parser, evaluator and REPL. Each chapter builds on stage of the pipeline and is all self-contained and testable.
+Borrowing Thorsten Ball's Monkey langauge, learn how to write a fully working Monkey language interpreter in zig, including a lexer, parser, evaluator and REPL. Each chapter builds on each stage of the pipeline and is all self-contained and testable.
 
 ---
 
